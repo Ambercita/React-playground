@@ -1,1 +1,1 @@
-{"mappings":"AAAA","sources":["src/styles.scss"],"sourcesContent":[".home-container {\n  height: 100vh;\n  width: 100vh;\n}\n"],"names":[],"version":3,"file":"portada.4a508c1d.css.map","sourceRoot":"/__parcel_source_root/"}
+{"mappings":"AAAA;;;;;;;;;AASA","sources":["src/styles.scss"],"sourcesContent":[".wallpaper {\n  height: 100vh;\n  width: 100vw;\n  position: absolute;\n  top: 0;\n  left: 0;\n  z-index: -1;\n}\n\nbody {\n  margin: 0;\n}\n"],"names":[],"version":3,"file":"portada.4a508c1d.css.map","sourceRoot":"/__parcel_source_root/"}

@@ -5868,7 +5868,7 @@ var _uvcanvas = require("uvcanvas");
 function Home() {
     console.log("Home component rendered");
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-        className: "home-container",
+        className: "wallpaper",
         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _uvcanvas.Novatrix), {}, void 0, false, {
             fileName: "src/component/home.tsx",
             lineNumber: 8,
